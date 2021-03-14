@@ -9,7 +9,7 @@ Two files are needed to configure the merro60 PCB.
 - The \*.hex file is required for QMK flashing with VIA enabled
 - The \*.json file is required for VIA operation
 
-![merro60 kle](merro60/kle.jpg)
+![merro60 kle](merro60/kle.svg)
 
 #### QMK guide
 The QMK hex file will enable all possible keys on the merro60 PCB.
