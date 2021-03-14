@@ -6,10 +6,8 @@ shared files for public access
 ## keyboard projects
 ### merro60
 Two files are needed to configure the merro60 PCB.
-
-The \*.hex file is required for QMK flashing with VIA enabled.
-
-The \*.json file is required for VIA operation.
+- The \*.hex file is required for QMK flashing with VIA enabled.
+- The \*.json file is required for VIA operation.
 
 ![merro60 kle](merro60/kle.jpg)
 
