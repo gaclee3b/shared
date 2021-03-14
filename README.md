@@ -20,6 +20,7 @@ The QMK hex file will enable all possible keys on the merro60 PCB.
 5. Flash it
 6. Disconnect the PCB
 7. Reconnect the PCB
+
 Use VIA to do the actual configuration.
 
 #### VIA guide
