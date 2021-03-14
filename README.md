@@ -6,8 +6,8 @@ shared files for public access
 ## keyboard projects
 ### merro60
 Two files are needed to configure the merro60 PCB.
-- The \*.hex file is required for QMK flashing with VIA enabled.
-- The \*.json file is required for VIA operation.
+- The \*.hex file is required for QMK flashing with VIA enabled
+- The \*.json file is required for VIA operation
 
 ![merro60 kle](merro60/kle.jpg)
 
@@ -16,7 +16,7 @@ The QMK hex file will enable all possible keys on the merro60 PCB.
 1. Download [chlx_merro60_via.hex](https://github.com/gaclee3b/shared/blob/main/merro60/chlx_merro60_via.hex)
 2. Start up QMK Toolbox
 3. Load in chlx_merro60_via.hex
-4. Press reset button on PCB or short out reset contacts near spacebar socket.
+4. Press reset button on PCB or short out reset contacts near spacebar socket
 5. Flash it
 6. Disconnect the PCB
 7. Reconnect the PCB
