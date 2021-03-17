@@ -13,7 +13,7 @@ Two files are needed to configure the merro60 PCB.
 
 #### QMK guide
 The QMK hex file will enable all possible keys on the merro60 PCB.
-1. Download [chlx_merro60_via.hex](https://github.com/gaclee3b/shared/blob/main/merro60/chlx_merro60_via.hex)
+1. Download [chlx_merro60_via.hex](merro60/chlx_merro60_via.hex)
 2. Start up QMK Toolbox
 3. Load in chlx_merro60_via.hex
 4. Press reset button on PCB or short out reset contacts near spacebar socket
@@ -32,7 +32,7 @@ Layout options available are -
 - ANSI / tsangan bottom row
 
 To set up VIA to recognize the merro60 PCB -
-1. Download [merro60_via-layout.json](https://github.com/gaclee3b/shared/blob/main/merro60/merro60_via-layout.json)
+1. Download [merro60_via-layout.json](merro60/merro60_via-layout.json)
 2. Start up VIA (merro60 should not be recognized yet, but we can keep going)
 3. Go to 'Settings' tab
 4. Enable 'Show Design tab'
@@ -48,6 +48,7 @@ This is just a guide for what I found easiest to install -
 2. Leave the left and right screws in the case (green circles)
   - This is to give the PCB the expected height / distance from the case bottom
   - You can leave the screws in the other posts too except the one under the spacebar
+  ![tofu60 case](merro60/under-pcb.jpeg)
 3. (Optional) Add a small piece of foam in the bottom left corner of the case
   - I experienced some tilting where the bottom left would dip and the top right would rise
   - Putting a small piece of foam here seems to prevent too much tilt and doesn't affect acoustics / feel
@@ -57,3 +58,4 @@ This is just a guide for what I found easiest to install -
 7. Squeeze the plate + PCB towards the south to give enough clearance for the USB on top to slide down into the case
 8. Screw in the spacebar post / PCB tab to ensure PCB can't fall out
   - Bare screw is ok to use without a washer and reinforced with disconnected / floating metal
+  ![tofu60 secure](merro60/over-pcb.jpeg)
