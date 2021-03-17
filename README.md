@@ -5,6 +5,11 @@ shared files for public access
 
 ## keyboard projects
 ### merro60
+This guide includes three main sections -
+1. QMK guide (for flashing VIA-enabled QMK)
+2. VIA guide (for enabling VIA recognition)
+3. physical installation guide
+
 Two files are needed to configure the merro60 PCB.
 - The \*.hex file is required for QMK flashing with VIA enabled
 - The \*.json file is required for VIA operation
