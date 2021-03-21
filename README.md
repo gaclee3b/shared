@@ -63,7 +63,10 @@ This is just a guide for what I found easiest to install -
 3. (Optional) Add a small piece of foam in the bottom left corner of the case
     - I experienced some tilting where the bottom left would dip and the top right would rise
     - Putting a small piece of foam here seems to prevent too much tilt and doesn't affect acoustics / feel
+    - Update - When using a full plate (non-HHKB), the friction fit is tight enough to prevent tilting
 4. Assemble stabilizers + switches + plate + PCB
+    - Must use clip-in stabilizers for the spacebar
+    - Unknown if clip-in stabilizers are also needed for full backspace
 5. Run gasket between plate and PCB around the whole assembly
 6. Put bottom / spacebar side in place in the case first
 7. Squeeze the plate + PCB towards the south to give enough clearance for the USB on top to slide down into the case
