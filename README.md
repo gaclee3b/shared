@@ -71,5 +71,13 @@ This is just a guide for what I found easiest to install -
 6. Put bottom / spacebar side in place in the case first
 7. Squeeze the plate + PCB towards the south to give enough clearance for the USB on top to slide down into the case
 8. Screw in the spacebar post / PCB tab to ensure PCB can't fall out
-    - Bare screw is ok to use without a washer and reinforced with disconnected / floating metal
+    - Bare screw is ok to use without a washer
+    - Area has been reinforced with disconnected / floating metal
     ![tofu60 secure](merro60/over-pcb.jpeg)
+
+---
+
+#### credits
+- ai03 - reference footprints, PCB design guide, voyager series PCB references
+- maartenwut - plain60 / plain60flex PCB references
+- prototype testers
