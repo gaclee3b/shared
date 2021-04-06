@@ -80,4 +80,5 @@ This is just a guide for what I found easiest to install -
 #### credits
 - ai03 - reference footprints, PCB design guide, voyager series PCB references
 - maartenwut - plain60 / plain60flex PCB references
+- hugokeys, singakbd - inspiration
 - coolmanguy, spookyghost - prototype testers
