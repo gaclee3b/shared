@@ -38,7 +38,7 @@ Layout options available are -
 - ANSI / ISO enter
 - split left shift
 - split right shift
-- ANSI / tsangan bottom row
+- 6.25u / 7u / 10u bottom row
 
 To set up VIA to recognize the merro60 PCB -
 1. Download [merro60_via-layout.json](merro60/merro60_via-layout.json)
@@ -79,6 +79,6 @@ This is just a guide for what I found easiest to install -
 
 #### credits
 - ai03 - reference footprints, PCB design guide, voyager series PCB references
-- maartenwut - plain60 / plain60flex PCB references
-- hugokeys, singakbd - inspiration
+- evyd13 - plain60 / plain60flex PCB references
+- hugokeys, singakbd - mount style inspiration
 - coolmanguy, spookyghost - prototype testers
