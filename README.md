@@ -60,6 +60,8 @@ This is just a guide for what I found easiest to install -
     - This is to give the PCB the expected height / distance from the case bottom
     - You can leave the screws in the other posts too except the one under the spacebar
     ![tofu60 case](merro60/under-pcb.jpeg)
+    - If using a Mekanisk Fjell / Klippe T case, all contact points circled in green need 1.5-2mm of increased height to prevent bottom-out (I used small cutouts of cork cabinet liner)
+    ![klippe t case](merro60/klippet_fjell_adjustment.jpeg)
 3. (Optional) Add a small piece of foam in the bottom left corner of the case
     - I experienced some tilting where the bottom left would dip and the top right would rise
     - Putting a small piece of foam here seems to prevent too much tilt and doesn't affect acoustics / feel
@@ -68,12 +70,18 @@ This is just a guide for what I found easiest to install -
     - Must use clip-in stabilizers for the spacebar
     - Unknown if clip-in stabilizers are also needed for full backspace
 5. Run gasket between plate and PCB around the whole assembly
-6. Put bottom / spacebar side in place in the case first
-7. Squeeze the plate + PCB towards the south to give enough clearance for the USB on top to slide down into the case
+6. Line up USB port to case opening first
+7. Slip in pcb/plate/gasket assembly using the paper tabs method (credit: believe0101)
+    ![assembly in 1](merro60/assemblyin-1.jpeg)
+    ![assembly in 2](merro60/assemblyin-2.jpeg)
 8. Screw in the spacebar post / PCB tab to ensure PCB can't fall out
     - Bare screw is ok to use without a washer
     - Area has been reinforced with disconnected / floating metal
     ![tofu60 secure](merro60/over-pcb.jpeg)
+
+To pop the pcb/plate/gasket assembly out, reverse the paper tabs method (credit: believe0101)
+    ![assembly out 1](merro60/assemblyout-1.jpeg)
+    ![assembly out 2](merro60/assemblyout-2.jpeg)
 
 ---
 
@@ -81,4 +89,4 @@ This is just a guide for what I found easiest to install -
 - ai03 - reference footprints, PCB design guide, voyager series PCB references
 - evyd13 - plain60 / plain60flex PCB references
 - hugokeys, singakbd - mount style inspiration
-- coolmanguy, spookyghost - prototype testers
+- coolmanguy, spookyghost, believe0101 - prototype testers
