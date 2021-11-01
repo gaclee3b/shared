@@ -71,8 +71,8 @@ This is just a guide for what I found easiest to install -
     - Unknown if clip-in stabilizers are also needed for full backspace
 5. Run gasket between plate and PCB around the whole assembly
     - If screw-in spacebar stabilizers are desired, refer to "optional oring configuration" section below
-7. Line up USB port to case opening first
-8. Slip in pcb/plate/gasket assembly using the paper tabs method (credit: believe0101)
+6. Line up USB port to case opening first
+7. Slip in pcb/plate/gasket assembly using the paper tabs method (credit: believe0101)
     ![assembly in 1](merro60/assemblyin-1.jpeg)
     ![assembly in 2](merro60/assemblyin-2.jpeg)
 8. Screw in the spacebar post / PCB tab to ensure PCB can't fall out
@@ -86,8 +86,10 @@ To pop the pcb/plate/gasket assembly out, reverse the paper tabs method (credit:
 
 #### optional oring configuration (allows screw-in stabilizers for tofu)
 1. When running gasket between plate and PCB, run the gasket under the pcb through the cuts on the bottom pcb edge
+    - Dotted light blue line shows original oring gasket route
+    - Orange line shows optional oring configuration with layer change location
     ![optional oring config](merro60/oring_reroute_option.jpeg)
-3. Continue assembly same as above except the paper tabs would go where the gasket changes layer
+2. Continue assembly same as above except the paper tabs would go where the gasket changes layer
 
 ---
 
