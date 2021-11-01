@@ -67,7 +67,8 @@ This is just a guide for what I found easiest to install -
     - Putting a small piece of foam here seems to prevent too much tilt and doesn't affect acoustics / feel
     - Update - When using a full plate (non-HHKB), the friction fit is tight enough to prevent tilting
 4. Assemble stabilizers + switches + plate + PCB
-    - Must use clip-in stabilizers for the spacebar
+    - Clip-in stabilizers for the spacebar are easiest to assemble
+    - Optional configuration for screw-in stabilizers down below (only applies to v1.2, v2)
     - Unknown if clip-in stabilizers are also needed for full backspace
 5. Run gasket between plate and PCB around the whole assembly
     - If screw-in spacebar stabilizers are desired, refer to "optional oring configuration" section below
