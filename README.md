@@ -40,18 +40,18 @@ Layout options available are -
 - split right shift
 - 6.25u / 7u / 10u bottom row
 
-~~To set up VIA to recognize the merro60 PCB -
-1. Download [merro60_via-layout.json](merro60/merro60_via-layout.json)
-2. Start up VIA (merro60 should not be recognized yet, but we can keep going)
-3. Go to 'Settings' tab
-4. Enable 'Show Design tab'
-5. Go to 'Design' tab
-6. Load the \*.json file
-7. Now use VIA as normal
+~~To set up VIA to recognize the merro60 PCB -~~
+~~1. Download [merro60_via-layout.json](merro60/merro60_via-layout.json)~~
+~~2. Start up VIA (merro60 should not be recognized yet, but we can keep going)~~
+~~3. Go to 'Settings' tab~~
+~~4. Enable 'Show Design tab'~~
+~~5. Go to 'Design' tab~~
+~~6. Load the \*.json file~~
+~~7. Now use VIA as normal~~
 
-Until I figure out how to push this json file into VIA's database, this is the only known way to program the merro60 PCB.~~
+~~Until I figure out how to push this json file into VIA's database, this is the only known way to program the merro60 PCB.~~
 
-merro60 should be recognized by VIA by default. No side-loading required. 
+merro60 should be recognized by VIA by default now. No side-loading required. 
 
 ---
 
