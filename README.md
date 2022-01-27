@@ -40,7 +40,7 @@ Layout options available are -
 - split right shift
 - 6.25u / 7u / 10u bottom row
 
-To set up VIA to recognize the merro60 PCB -
+~~To set up VIA to recognize the merro60 PCB -
 1. Download [merro60_via-layout.json](merro60/merro60_via-layout.json)
 2. Start up VIA (merro60 should not be recognized yet, but we can keep going)
 3. Go to 'Settings' tab
@@ -49,7 +49,9 @@ To set up VIA to recognize the merro60 PCB -
 6. Load the \*.json file
 7. Now use VIA as normal
 
-Until I figure out how to push this json file into VIA's database, this is the only known way to program the merr60 PCB.
+Until I figure out how to push this json file into VIA's database, this is the only known way to program the merro60 PCB.~~
+
+merro60 should be recognized by VIA by default. No side-loading required. 
 
 ---
 
@@ -58,6 +60,7 @@ This is just a guide for what I found easiest to install -
 1. Use flat-top m2 screws
 2. Leave the left and right screws in the case (green circles)
     - This is to give the PCB the expected height / distance from the case bottom
+    - If bottoming out too often, you can unscrew the screws a little / add more padding material on the o-ring mounting points to give the PCB assembly more height  
     - You can leave the screws in the other posts too except the one under the spacebar
     ![tofu60 case](merro60/under-pcb.jpeg)
     - If using a Mekanisk Fjell / Klippe T case, all contact points circled in green need 1.5-2mm of increased height to prevent bottom-out (I used small cutouts of cork cabinet liner)
@@ -87,10 +90,14 @@ To pop the pcb/plate/gasket assembly out, reverse the paper tabs method (credit:
 
 #### optional oring configuration (allows screw-in stabilizers for tofu)
 1. When running gasket between plate and PCB, run the gasket under the pcb through the cuts on the bottom pcb edge
-    - Dotted light blue line shows original oring gasket route
+    - Dotted light blue line shows original o-ring gasket route
     - Orange line shows optional oring configuration with layer change location
     ![optional oring config](merro60/oring_reroute_option.jpeg)
 2. Continue assembly same as above except the paper tabs would go where the gasket changes layer
+
+#### SIMP Kit Synergy (helps prevent depending on merro60 USB port for physical support)
+- Tofu has a lack of supports at the top of the case
+- Can use 3d-printed TPU SIMP kit tabs on the merro60 PCB at the top edge of the PCB to give additional support
 
 ---
 
