@@ -97,7 +97,7 @@ To pop the pcb/plate/gasket assembly out, reverse the paper tabs method (credit:
 
 #### SIMP Kit Synergy (helps prevent depending on merro60 USB port for physical support)
 - Tofu has a lack of supports at the top of the case
-- Can use 3d-printed TPU SIMP kit tabs on the merro60 PCB at the top edge of the PCB to give additional support, specifically to the left of the typical "tab" spot and to the right of the "pipe / backslash" spot
+- Can use 3d-printed TPU SIMP kit tabs on the merro60 PCB at the upper half of left and right edges of the PCB to give additional support, specifically to the left of the typical "tab" spot and to the right of the "pipe / backslash" spot
 - [geekhack reference](https://geekhack.org/index.php?topic=111539.0)
 
 ---
