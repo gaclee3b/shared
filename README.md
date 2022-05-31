@@ -28,7 +28,7 @@ The QMK hex file will enable all possible keys on the merro60 PCB.
 6. Disconnect the PCB
 7. Reconnect the PCB
 
-Use VIA to do the actual configuration.
+Use VIA/VIAL to do the actual configuration.
 
 ---
 
@@ -51,7 +51,10 @@ To set up VIA to recognize the merro60 PCB (no longer needed since VIA has integ
 
 ~~Until I figure out how to push this json file into VIA's database, this is the only known way to program the merro60 PCB.~~
 
-
+#### VIAL guide
+Pretty much same as VIA, but 
+1. QMK flash the keyboard with [chlx_merro60_vial.hex](merro60/chlx_merro60_vial.hex)
+2. Use [VIAL](https://get.vial.today) to configure the keyboard
 
 ---
 
