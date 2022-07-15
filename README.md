@@ -20,7 +20,7 @@ Two files are needed to configure the merro60 PCB.
 
 #### QMK guide
 The QMK hex file will enable all possible keys on the merro60 PCB.
-1. Download [chlx_merro60_via.hex](merro60/chlx_merro60_via.hex)
+1. Download [chlx_merro60_via.hex from caniusevia](https://www.caniusevia.com/docs/download_firmware)
 2. Start up QMK Toolbox
 3. Load in chlx_merro60_via.hex
 4. Press reset button on PCB or short out reset contacts near spacebar socket
