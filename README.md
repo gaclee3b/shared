@@ -4,6 +4,16 @@ shared files for public access
 ---
 
 ## keyboard projects
+<create table for firmware mapping, form factor, features>
+| PCB Name      | Size  | Firmware      | Mounting                  | Features                                                  |
+| :------------ | ---:  | :------------ | :------------------------ | :-------------------------------------------------------- |
+| merro60       | 60    | merro60       | gummy o-ring / SIMP kit   | MX / Alps                                                 |
+| str.merro60   | 60    | str.merro60   | gummy o-ring / SIMP kit   | side-firing RGB underglow                                 |
+| nki.merro60   | 60    | merro60       | pcb leaf-spring on tray   | MX / Alps                                                 |
+| ppr.merro60   | 60    | ppr.merro60   | gummy o-ring / SIMP kit   | 1.2mm thickness<br>single optional horiz center flex cut  |
+| lfn.merro60   | 60    | lfn.merro60   | gummy o-ring / SIMP kit   | 2.0mm thickness                                           |
+| piche60       | 60    | piche60       | general / misc            | snappable halves, usb -> db (udb compat)                  |
+
 ### merro60, str.merro60
 This guide includes three main sections -
 1. QMK guide (for flashing VIA-enabled QMK)
