@@ -11,7 +11,7 @@ shared files for public access
 | nki.merro60   | 60    | merro60       | pcb leaf-spring on tray   | MX / Alps                                                 |
 | ppr.merro60   | 60    | ppr.merro60   | gummy o-ring<br>SIMP kit  | 1.2mm thickness<br>single optional horiz center flex cut<br>esc / caps lock indicator LED-capable|
 | lfn.merro60   | 60    | lfn.merro60   | gummy o-ring<br>SIMP kit  | 2.0mm thickness                                           |
-| piche60       | 60    | piche60       | general<br>misc           | MX / Alps<br>snappable halves<br>snappable usb -> db (udb compat)<br> esc / caps lock indictor LED-capable|
+| piche60       | 60    | piche60       | general<br>misc           | Alice layout<br>MX / Alps<br>snappable halves<br>snappable usb -> db (udb compat)<br> esc / caps lock indictor LED-capable|
 
 ### merro60, str.merro60
 This guide includes three main sections -
